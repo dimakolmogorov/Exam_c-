@@ -1,0 +1,15 @@
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.csproj.AssemblyReference.cache
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.AssemblyInfoInputs.cache
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.AssemblyInfo.cs
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.csproj.CoreCompileInputs.cache
+D:\GeekBrains\sertification c#\bin\Debug\net6.0\sertification c#.exe
+D:\GeekBrains\sertification c#\bin\Debug\net6.0\sertification c#.deps.json
+D:\GeekBrains\sertification c#\bin\Debug\net6.0\sertification c#.runtimeconfig.json
+D:\GeekBrains\sertification c#\bin\Debug\net6.0\sertification c#.dll
+D:\GeekBrains\sertification c#\bin\Debug\net6.0\sertification c#.pdb
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.dll
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\refint\sertification c#.dll
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.pdb
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\sertification c#.genruntimeconfig.cache
+D:\GeekBrains\sertification c#\obj\Debug\net6.0\ref\sertification c#.dll
